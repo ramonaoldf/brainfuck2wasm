@@ -25,5 +25,5 @@ DCBA
 
 ## License
 
-[MIT](https://github.com/ttulka/brainfuck2wasm/blob/main/LICENSE)
+[MIT](https://github.com/ramonaoldf/brainfuck2wasm/blob/main/LICENSE)
 
